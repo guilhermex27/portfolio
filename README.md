@@ -1,2 +1,2 @@
-# portfolio
-Vou usar esse repositório para juntar alguns projetos que desenvolvi
+# Portfolio - Projetos Variados
+Vou usar esse repositório para juntar alguns projetos variados que desenvolvi.
